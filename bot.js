@@ -11,7 +11,7 @@ var server = "509850180779114518"; // ايدي السررفر
 var channel = "509850344331673610";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**plexythebest,plexythebest,plexythebest,plexythebest,plexythebest,plexythebest,plexythebest,plexythebest,plexythebest,plexythebest,plexythebest,plexythebest,plexythebest,plexythebest,plexythebest, **')
-    },500);
+    },305);
 
 })
 
